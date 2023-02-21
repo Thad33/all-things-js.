@@ -107,7 +107,7 @@ setTimeout(function() {
 // You can also use the throw statement with the try...catch statement to use user-defined exceptions. For example, a certain number is divided by 0. If you want to consider Infinity as an error in the program, then you can throw a user-defined exception using the throw statement to handle that condition.
 //more examples on how to use try and catch and more of its functionality will be posted daily
 
-let code = "ad", 1231;
+let code = "ad", x=1231;
 try{
    console.log(code)
 } catch{
